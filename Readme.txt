@@ -5,4 +5,5 @@ Git tracks changes of files.
 no add before commit.
 Creating a new branch is quick.
 modify in the new branch.
-add to push
+add to push.
+comment to push.
