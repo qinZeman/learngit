@@ -8,3 +8,4 @@ modify in the new branch.
 add to push.
 comment to push.
 modify in remote.
+modify local ，howerver modified remote already. So stash and pull again,then solve the conflict.
